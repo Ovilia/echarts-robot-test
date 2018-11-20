@@ -8,7 +8,7 @@ It's highly recommended to use English in issues, to help others having the same
 Please check the following questions to let our bot help.
 -->
 
-<!-- To check the option, add x in [], e.g.: [x] I am using English in this issue. -->
+<!-- To check the option, add x in [], e.g.: [x] I am ... -->
 
 - [ ] I am using English in this issue.
 
@@ -30,6 +30,7 @@ In this issue, I have provided information with:
 - [ ] issue type
 - [ ] one sentence description in issue details
 - [ ] demo if this is bug report
+- [ ] ECharts version
 
 <!-- END OF REQUIRED FIELDS -->
 
@@ -95,14 +96,14 @@ In this issue, I have provided information with:
 - [ ] Third-party libraries, e.g.: Vue.js, React
 
 
-### Anything Else We Need to Know
+## Anything Else We Need to Know
 
 <!-- You may reference other issues here. Otherwise, replace the following line with N/A. -->
 
 {DESCRIBE_HERE}
 
 
-### Environment
+## Environment
 
 - ECharts version: {DESCRIBE_HERE}
 
