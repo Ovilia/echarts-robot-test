@@ -1,3 +1,3 @@
 hello
 
-This is a change in protected.
+This is another change in protected.
